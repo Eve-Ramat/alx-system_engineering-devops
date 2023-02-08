@@ -15,3 +15,4 @@ mv /tmp/betty /tmp my-first-director/betty: moves the file betty from /tmp/ to /
 
 rm /tmp/my-first-directory/betty: deletes the file betty from /tmp/my-first-directory.
 
+rm -r /tmp/my-first-directory: deletes a directory named "my-first-directory" that is located in the "/tmp" directory.
