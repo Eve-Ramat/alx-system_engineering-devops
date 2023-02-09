@@ -17,4 +17,4 @@ rm /tmp/my-first-directory/betty: deletes the file betty from /tmp/my-first-dire
 
 rm -r /tmp/my-first-directory: deletes a directory named "my-first-directory" that is located in the "/tmp" directory.
 
-Cd.. or Cd - : changes the working directory to the previous one.
+Cd .. or Cd - : changes the working directory to the previous one.
