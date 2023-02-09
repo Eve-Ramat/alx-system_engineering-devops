@@ -1,1 +1,3 @@
-su betty - creates a script that switches the current user to the user betty.
+su betty - switches the current user to the user betty.
+
+id -un - prints the effective username of the current user.
