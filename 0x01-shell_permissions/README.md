@@ -30,5 +30,5 @@ chmod 753 hello
 chmod --reference=olleh hello
 a script that sets the mode of the file hello the same as olleh’s mode.
 
-chmod -R +x
+chmod -R +x .
 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users without changing regular files.
