@@ -46,3 +46,6 @@ a script that displays the 10 newest files in the current directory.
 
 **egrep "root" /etc/passwd**
 display lines containing the pattern “root” from the file /etc/passwd
+
+**egrep -c "bin" /etc/passwd**
+displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
