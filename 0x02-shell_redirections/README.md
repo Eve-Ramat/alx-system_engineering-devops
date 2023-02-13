@@ -19,3 +19,7 @@ Displays the content of the /etc/passwd file
 
 **tail /etc/passwd**
 displays the last 10 lines of /etc/passwd
+
+**head /etc/passwd**
+displays the first 10 lines of /etc/passwd
+
