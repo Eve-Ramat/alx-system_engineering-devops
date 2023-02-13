@@ -16,3 +16,6 @@ displays the content of the /etc/passwd file
 display the content of /etc/passwd and /etc/hosts
 **cat /etc/passwd**
 Displays the content of the /etc/passwd file
+
+**tail /etc/passwd**
+displays the last 10 lines of /etc/passwd
