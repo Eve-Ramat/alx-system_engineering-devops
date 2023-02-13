@@ -31,3 +31,6 @@ a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\
 
 **ls -la > ls_cwd_content**
  a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it will be overwritten. If the file ls_cwd_content does not exist, it will be create it.
+
+**tail -1 iacta >> iacta**
+duplicates the last line of the file iacta.
