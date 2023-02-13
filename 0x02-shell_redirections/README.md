@@ -40,3 +40,6 @@ a script that deletes all the regular files (not the directories) with a .js ext
 
 **find . -type d ! -path .  | wc -l**
 a script that counts the number of directories and sub-directories in the current directory.
+
+**ls -t .  | head**
+a script that displays the 10 newest files in the current directory.
