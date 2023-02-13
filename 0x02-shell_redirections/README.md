@@ -43,3 +43,6 @@ a script that counts the number of directories and sub-directories in the curren
 
 **ls -t .  | head**
 a script that displays the 10 newest files in the current directory.
+
+**egrep "root" /etc/passwd**
+display lines containing the pattern “root” from the file /etc/passwd
