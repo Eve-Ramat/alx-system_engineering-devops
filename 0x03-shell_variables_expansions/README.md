@@ -30,3 +30,5 @@
 15.  * printf "%x\n" $DECIMAL: converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable DECIMAL
 
 16. * tr 'A-Za-z' 'N-ZA-Mn-za-m': Encodes and decodes text using the rot13 encryption.
+
+17. * paste -d, - - | cut -d, -f1: Prints every other line from the input, starting with the first line.
