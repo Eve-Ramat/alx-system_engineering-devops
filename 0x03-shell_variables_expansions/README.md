@@ -14,3 +14,5 @@
 
 7.  * BEST=School
 :creates a new local variable.(Name: BETTY, Value: Holberton)
+
+8.  * export BEST=School: create a script that creates a new global variable.(Name: HOLBERTON, Value: Betty)
