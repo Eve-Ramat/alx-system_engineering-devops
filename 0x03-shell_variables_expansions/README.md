@@ -32,3 +32,5 @@
 16. * tr 'A-Za-z' 'N-ZA-Mn-za-m': Encodes and decodes text using the rot13 encryption.
 
 17. * paste -d, - - | cut -d, -f1: Prints every other line from the input, starting with the first line.
+
+18. * printf "%o\n" $(( $((5#$(echo $WATER | tr water 01234))) + $((5#$(echo $STIR | tr stir. 01234))) )) | tr 01234567 bestchol: Adds the two numbers stored in the environment variables WATER and STIR and prints the result.
