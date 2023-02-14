@@ -26,3 +26,5 @@
 13. * echo {a..z}{a..z} | tr " " "\n" | grep -v "oo": Creates a script that prints all possible combinations of two letters, except "oo"i.
 
 14.  * printf "%02.2f\n" $NUM: Prints a number with two decimal places. The number will be stored in the environment variable NUM.
+
+15.  * printf "%x\n" $DECIMAL: converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable DECIMAL
