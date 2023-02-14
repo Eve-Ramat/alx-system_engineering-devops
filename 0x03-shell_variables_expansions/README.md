@@ -11,3 +11,6 @@
 5.  *printenv: Creates a script that lists environment variables.
 
 6.  *set: create a script that lists all local variables and environment variables, and functions.
+
+7.  * BEST=School
+:creates a new local variable.(Name: BETTY, Value: Holberton)
