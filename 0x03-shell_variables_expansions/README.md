@@ -17,4 +17,4 @@
 
 8.  * export BEST=School: create a script that creates a new global variable.(Name: HOLBERTON, Value: Betty)
 
-9.  * echo $((128 + $TRUEKNOWLEDGE)): Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+9.  * echo $((128 + $TRUEKNOWLEDGE)): Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.10. * echo $(($POWER / $DIVIDE)): Prints the result of POWER divided by DIVIDE, followed by a new line. (POWER and DIVIDE are environment variables)
