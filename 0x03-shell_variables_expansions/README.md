@@ -8,9 +8,9 @@
 
 4.  * echo $PATH | tr ':' '\n' | wc -l: Creates a script that counts the number of directories in the PATH.
 
-5.  *printenv: Creates a script that lists environment variables.
+5.  * printenv: Creates a script that lists environment variables.
 
-6.  *set: create a script that lists all local variables and environment variables, and functions.
+6.  * set: create a script that lists all local variables and environment variables, and functions.
 
 7.  * BEST=School
 :creates a new local variable.(Name: BETTY, Value: Holberton)
