@@ -15,3 +15,5 @@
 (8) **7-movethatfile:** moves the file betty from /tmp/ to /tmp/my_first_directory.
 
 (9) **8-firstdelete:** Deletes betty from /tmp/my_first_directory
+
+(10) **9-firstdirdeletion:** Delete the directory my_first_directory that is in the /tmp directory.
