@@ -11,3 +11,6 @@
 
 
 (5) **4-empty:*" A script that creates an empty file called hello.
+
+
+(6) **5-execute:** A script that adds execute permission to the owner of the file hello.
