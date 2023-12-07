@@ -38,3 +38,9 @@
 
 
 (19) **103-commas:** a command that lists all the files and directories of the current directory, separated by commas (,).
+
+
+(20) **school.mgc:** Creates a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+
+
+(20) **school.mgc:** Creates a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
